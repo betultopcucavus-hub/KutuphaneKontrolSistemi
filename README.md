@@ -75,7 +75,7 @@ Kod okunabilirliği, sade mimari ve öğrenme odaklı yapı ön planda tutulmuş
 ![Ödünç](screenshot-c#/Odunç-Al.png)
 
 ### Rol Seçimi-Yönetici Şifre Girişi
-![Son İşlemler](screenshot-c#/Rol-Seçimi-yönetici-şifre-girişi.png)
+![Rol Seçimi](screenshot-c#/Rol-Seçimi-yönetici-şifre-girişi.png)
 
 ---
 
