@@ -60,8 +60,28 @@ Amaç, temel CRUD işlemleri, dosya okuma/yazma ve rol bazlı arayüz kontrolün
 Bu proje, **junior seviye C# / WinForms pratiği** yapmak amacıyla geliştirilmiştir.  
 Kod okunabilirliği, sade mimari ve öğrenme odaklı yapı ön planda tutulmuştur.
 
+
+---
+
+## 📸 Ekran Görüntüleri
+
+### Ana Ekran
+![Ana Ekran](screenshot-c#/Ana-Ekran.png)
+
+### Yönetici Modu
+![Yönetici Modu](screenshot-c#/Yonetici-Modu.png)
+
+### Ödünç İşlemi
+![Ödünç](screenshot-c#/Odunç-Al.png)
+
+### Son İşlemler
+![Son İşlemler](screenshot-c#/Rol-Seçimi-yönetici-şifre-girişi.png)
+
 ---
 
 ## 📌 Not
 
 Bu proje bir eğitim çalışmasıdır ve zamanla geliştirilmeye açıktır.
+
+
+
