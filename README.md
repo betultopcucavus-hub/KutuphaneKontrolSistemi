@@ -74,7 +74,7 @@ Kod okunabilirliği, sade mimari ve öğrenme odaklı yapı ön planda tutulmuş
 ### Ödünç İşlemi
 ![Ödünç](screenshot-c#/Odunç-Al.png)
 
-### Son İşlemler
+### Rol Seçimi-Yönetici Şifre Girişi
 ![Son İşlemler](screenshot-c#/Rol-Seçimi-yönetici-şifre-girişi.png)
 
 ---
